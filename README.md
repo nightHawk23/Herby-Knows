@@ -1,0 +1,2 @@
+# Herby-Knows
+Good news for all the curious Plantsmen! This is a code which takes in an image of any plant, compares it with the database available and gives the name and information of the plant so that the user can get the required information to either grow the specific plant successfully or to just know it's details. This is just the software implementation but this project can be extended and integrated with hardware to benefit a larger part of the society.
